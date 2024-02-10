@@ -1,3 +1,3 @@
 # Visual PIDS Editor
-A GUI PIDS editor, still in the works. Please download the latest release from the "Releases" tab.
-A better description will be made later on.
+A GUI PIDS editor, still in the works.
+Please see https://github.com/dooji2/visual-pids-editor for an in-game version of this.
